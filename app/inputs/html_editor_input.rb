@@ -7,7 +7,6 @@ class HtmlEditorInput < Formtastic::Inputs::TextInput
       <a data-wysihtml5-command="bold" title="Bold"><span>Bold</span></a>
       <a data-wysihtml5-command="italic" title="Italic"><span>Italic</span></a>
       <a data-wysihtml5-command="createLink" title="Link"><span>Link</span></a>
-      <a data-wysihtml5-command="insertImage" class="insertImage" title="Image"><span>Image</span></a>
       <a data-wysihtml5-command="insertUnorderedList" title="Unordered list"><span>Bulleted List</span></a>
       <a data-wysihtml5-command="insertOrderedList" title="Ordered list"><span>Numbered List</span></a>
       <a data-wysihtml5-command="formatBlock" data-wysihtml5-command-value="h1">h1</a>
